@@ -9,6 +9,7 @@ This application is configured for Service Discovery and Configuration with . On
 ## Best practises
 
 [Spring Boot Microservices – Fastest Production Ready Microservices](http://progressivecoder.com/spring-boot-microservices-fastest-production-ready-microservices/)
+[OpenAPI and JSON Schema: When to Use Which](https://stoplight.io/blog/openapi-json-schema/)
 
 ## Development
 
