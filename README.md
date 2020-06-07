@@ -10,6 +10,7 @@ This application is configured for Service Discovery and Configuration with . On
 
 [Spring Boot Microservices – Fastest Production Ready Microservices](http://progressivecoder.com/spring-boot-microservices-fastest-production-ready-microservices/)
 [OpenAPI and JSON Schema: When to Use Which](https://stoplight.io/blog/openapi-json-schema/)
+[Swagger/OpenAPI mock server](https://stackoverflow.com/questions/38344711/swagger-openapi-mock-server)
 
 ## Development
 
