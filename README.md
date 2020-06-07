@@ -6,6 +6,10 @@ This is a "microservice" application intended to be part of a microservice archi
 
 This application is configured for Service Discovery and Configuration with . On launch, it will refuse to start if it is not able to connect to .
 
+## Best practises
+
+[Spring Boot Microservices – Fastest Production Ready Microservices](http://progressivecoder.com/spring-boot-microservices-fastest-production-ready-microservices/)
+
 ## Development
 
 To start your application in the dev profile, run:
